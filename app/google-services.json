@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832645775339",
+    "firebase_url": "https://maincamera-e8f48.firebaseio.com",
+    "project_id": "maincamera-e8f48",
+    "storage_bucket": "maincamera-e8f48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832645775339:android:840d0e57dc7a08374a63ae",
+        "android_client_info": {
+          "package_name": "com.example.maincamera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832645775339-u25uelfqob9sjp7vsl325cedroc7h2pq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.maincamera",
+            "certificate_hash": "6296c3a181cba5cd40051d7d02b237115571bc32"
+          }
+        },
+        {
+          "client_id": "832645775339-fe7cti4nqbm81bqb465u0cbjti284rb3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhha1BKwVrgedJ06ssBuwiADynx6ZgnAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832645775339-fe7cti4nqbm81bqb465u0cbjti284rb3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
