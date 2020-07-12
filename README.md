@@ -1,2 +1,2 @@
 # Click-Upload
-An android app which takes pictures and uploads it on firebase database.
+An android application which takes pictures and uploads it on firebase database.
